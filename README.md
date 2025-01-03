@@ -1,5 +1,5 @@
-##🚗 Vehicle Rental System
-A web-based Vehicle Rental System developed using PHP and MySQL. This system allows users to book vehicles online, manage customer bookings, and maintain vehicle availability in a secure and efficient manner. 
+## Vehicle Rental System
+-A web-based Vehicle Rental System developed using PHP and MySQL. This system allows users to book vehicles online, manage customer bookings, and maintain vehicle availability in a secure and efficient manner. 
 
 ##🛠️ Technologies Used
 PHP
